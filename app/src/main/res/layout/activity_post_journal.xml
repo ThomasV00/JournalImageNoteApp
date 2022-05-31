@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#292723"
+    android:background="#2f4f4f"
     tools:context=".PostJournalActivity">
 
     <ImageView
@@ -27,7 +27,7 @@
         android:layout_marginTop="8dp"
         android:text="Yung"
         android:textSize="24sp"
-        android:textColor="#FFAF00"
+        android:textColor="#f5f5dc"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.097"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:text="Today"
         android:textSize="18sp"
-        android:textColor="#FFAF00"
+        android:textColor="#f5f5dc"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/post_username_textview"

@@ -5,7 +5,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:background="#292723"
+    android:background="#2f4f4f"
     android:padding="16dp"
     android:layout_height="match_parent"
     tools:context=".CreateAccountActivity">
@@ -71,7 +71,7 @@
         <Button
             android:paddingTop="18dp"
             android:id="@+id/create_acct_button"
-            android:textColor="#FFAF00"
+            android:textColor="#f5f5dc"
             android:background="@android:color/transparent"
             android:text="@string/create_text"
             android:layout_width="match_parent"

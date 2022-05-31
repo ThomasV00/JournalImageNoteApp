@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/font/roboto_bold.xml" value="0.15677083333333333" />
         <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/activity_create_account.xml" value="0.264" />
-        <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/activity_journal_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/activity_post_journal.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/layout/journal_row.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/MyPC/AndroidStudioProjects/MyNoteFinalProject/app/src/main/res/menu/menu.xml" value="0.2490740740740741" />
       </map>
     </option>
